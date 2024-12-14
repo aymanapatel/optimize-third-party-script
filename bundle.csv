@@ -1,0 +1,4 @@
+what,size
+vanilla vite, 144kb
+vite + mixpanel, 291kb
+vite + mixpanel + intercom, 291kb
